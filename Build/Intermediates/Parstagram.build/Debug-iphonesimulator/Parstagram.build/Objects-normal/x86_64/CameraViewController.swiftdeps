@@ -1,0 +1,926 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "CameraViewController"
+provides-nominal:
+- "10Parstagram20CameraViewControllerC"
+provides-member:
+- ["10Parstagram20CameraViewControllerC", ""]
+provides-dynamic-lookup:
+- "commentField"
+- "imagePickerController"
+- "imageView"
+- "onCameraButton"
+- "onSubmitButton"
+- "viewDidLoad"
+depends-top-level:
+- "AssignmentPrecedence"
+- "BooleanLiteralType"
+- !private "CGSize"
+- "CameraViewController"
+- "CastingPrecedence"
+- !private "FloatLiteralType"
+- !private "IntegerLiteralType"
+- !private "PFFileObject"
+- !private "PFObject"
+- !private "PFUser"
+- !private "StringLiteralType"
+- !private "UIImage"
+- "UIImagePickerController"
+- "UIImagePickerControllerDelegate"
+- "UIImageView"
+- "UINavigationControllerDelegate"
+- "UITextField"
+- "UIViewController"
+- !private "print"
+depends-member:
+- !private ["SK", "editedImage"]
+- !private ["So15CALayerDelegateP", "image"]
+- !private ["So15CALayerDelegateP", "text"]
+- !private ["So6CGSizeV", "init"]
+- !private ["s7CVarArgP", "CGSize"]
+- ["s7CVarArgP", "InfoKey"]
+- !private ["s7CVarArgP", "PFFileObject"]
+- !private ["s7CVarArgP", "PFObject"]
+- !private ["s7CVarArgP", "PFUser"]
+- !private ["s7CVarArgP", "UIImagePickerController"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "af_imageScaled"]
+- !private ["s7CVarArgP", "allowsEditing"]
+- !private ["s7CVarArgP", "commentField"]
+- !private ["s7CVarArgP", "current"]
+- !private ["s7CVarArgP", "delegate"]
+- !private ["s7CVarArgP", "dismiss"]
+- !private ["s7CVarArgP", "image"]
+- ["s7CVarArgP", "imagePickerController"]
+- ["s7CVarArgP", "imagePickerControllerDidCancel"]
+- !private ["s7CVarArgP", "imageView"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "isSourceTypeAvailable"]
+- ["s7CVarArgP", "navigationController"]
+- ["s7CVarArgP", "navigationControllerPreferredInterfaceOrientationForPresentation"]
+- ["s7CVarArgP", "navigationControllerSupportedInterfaceOrientations"]
+- !private ["s7CVarArgP", "pngData"]
+- !private ["s7CVarArgP", "present"]
+- !private ["s7CVarArgP", "print"]
+- !private ["s7CVarArgP", "saveInBackground"]
+- !private ["s7CVarArgP", "sourceType"]
+- !private ["s7CVarArgP", "subscript"]
+- !private ["s7CVarArgP", "text"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- !private ["10Parstagram20CameraViewControllerC", "CGSize"]
+- !private ["10Parstagram20CameraViewControllerC", "PFFileObject"]
+- !private ["10Parstagram20CameraViewControllerC", "PFObject"]
+- !private ["10Parstagram20CameraViewControllerC", "PFUser"]
+- !private ["10Parstagram20CameraViewControllerC", "UIImage"]
+- ["10Parstagram20CameraViewControllerC", "UIImagePickerController"]
+- ["10Parstagram20CameraViewControllerC", "UIImageView"]
+- ["10Parstagram20CameraViewControllerC", "UITextField"]
+- ["10Parstagram20CameraViewControllerC", "commentField"]
+- ["10Parstagram20CameraViewControllerC", "deinit"]
+- !private ["10Parstagram20CameraViewControllerC", "dismiss"]
+- ["10Parstagram20CameraViewControllerC", "imagePickerController"]
+- ["10Parstagram20CameraViewControllerC", "imagePickerControllerDidCancel"]
+- ["10Parstagram20CameraViewControllerC", "imageView"]
+- ["10Parstagram20CameraViewControllerC", "init"]
+- ["10Parstagram20CameraViewControllerC", "navigationController"]
+- ["10Parstagram20CameraViewControllerC", "navigationControllerPreferredInterfaceOrientationForPresentation"]
+- ["10Parstagram20CameraViewControllerC", "navigationControllerSupportedInterfaceOrientations"]
+- ["10Parstagram20CameraViewControllerC", "onCameraButton"]
+- ["10Parstagram20CameraViewControllerC", "onSubmitButton"]
+- !private ["10Parstagram20CameraViewControllerC", "present"]
+- !private ["10Parstagram20CameraViewControllerC", "print"]
+- ["10Parstagram20CameraViewControllerC", "viewDidLoad"]
+- !private ["Sl", "editedImage"]
+- !private ["Sl", "subscript"]
+- !private ["SL", "editedImage"]
+- !private ["s28CustomDebugStringConvertibleP", "CGSize"]
+- ["s28CustomDebugStringConvertibleP", "InfoKey"]
+- !private ["s28CustomDebugStringConvertibleP", "PFFileObject"]
+- !private ["s28CustomDebugStringConvertibleP", "PFObject"]
+- !private ["s28CustomDebugStringConvertibleP", "PFUser"]
+- !private ["s28CustomDebugStringConvertibleP", "UIImagePickerController"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "af_imageScaled"]
+- !private ["s28CustomDebugStringConvertibleP", "allowsEditing"]
+- !private ["s28CustomDebugStringConvertibleP", "commentField"]
+- !private ["s28CustomDebugStringConvertibleP", "current"]
+- !private ["s28CustomDebugStringConvertibleP", "delegate"]
+- !private ["s28CustomDebugStringConvertibleP", "dismiss"]
+- !private ["s28CustomDebugStringConvertibleP", "editedImage"]
+- !private ["s28CustomDebugStringConvertibleP", "image"]
+- ["s28CustomDebugStringConvertibleP", "imagePickerController"]
+- ["s28CustomDebugStringConvertibleP", "imagePickerControllerDidCancel"]
+- !private ["s28CustomDebugStringConvertibleP", "imageView"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "isSourceTypeAvailable"]
+- ["s28CustomDebugStringConvertibleP", "navigationController"]
+- ["s28CustomDebugStringConvertibleP", "navigationControllerPreferredInterfaceOrientationForPresentation"]
+- ["s28CustomDebugStringConvertibleP", "navigationControllerSupportedInterfaceOrientations"]
+- !private ["s28CustomDebugStringConvertibleP", "pngData"]
+- !private ["s28CustomDebugStringConvertibleP", "present"]
+- !private ["s28CustomDebugStringConvertibleP", "print"]
+- !private ["s28CustomDebugStringConvertibleP", "saveInBackground"]
+- !private ["s28CustomDebugStringConvertibleP", "sourceType"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "text"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- !private ["s17CustomReflectableP", "editedImage"]
+- !private ["s17CustomReflectableP", "image"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s17CustomReflectableP", "text"]
+- !private ["s23CustomStringConvertibleP", "CGSize"]
+- ["s23CustomStringConvertibleP", "InfoKey"]
+- !private ["s23CustomStringConvertibleP", "PFFileObject"]
+- !private ["s23CustomStringConvertibleP", "PFObject"]
+- !private ["s23CustomStringConvertibleP", "PFUser"]
+- !private ["s23CustomStringConvertibleP", "UIImagePickerController"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "af_imageScaled"]
+- !private ["s23CustomStringConvertibleP", "allowsEditing"]
+- !private ["s23CustomStringConvertibleP", "commentField"]
+- !private ["s23CustomStringConvertibleP", "current"]
+- !private ["s23CustomStringConvertibleP", "delegate"]
+- !private ["s23CustomStringConvertibleP", "dismiss"]
+- !private ["s23CustomStringConvertibleP", "editedImage"]
+- !private ["s23CustomStringConvertibleP", "image"]
+- ["s23CustomStringConvertibleP", "imagePickerController"]
+- ["s23CustomStringConvertibleP", "imagePickerControllerDidCancel"]
+- !private ["s23CustomStringConvertibleP", "imageView"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "isSourceTypeAvailable"]
+- ["s23CustomStringConvertibleP", "navigationController"]
+- ["s23CustomStringConvertibleP", "navigationControllerPreferredInterfaceOrientationForPresentation"]
+- ["s23CustomStringConvertibleP", "navigationControllerSupportedInterfaceOrientations"]
+- !private ["s23CustomStringConvertibleP", "pngData"]
+- !private ["s23CustomStringConvertibleP", "present"]
+- !private ["s23CustomStringConvertibleP", "print"]
+- !private ["s23CustomStringConvertibleP", "saveInBackground"]
+- !private ["s23CustomStringConvertibleP", "sourceType"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "text"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- !private ["Se", "editedImage"]
+- !private ["Se", "image"]
+- !private ["Se", "init"]
+- !private ["Se", "subscript"]
+- !private ["Se", "text"]
+- !private ["SD", "subscript"]
+- !private ["SE", "editedImage"]
+- !private ["SE", "image"]
+- !private ["SE", "init"]
+- !private ["SE", "subscript"]
+- !private ["SE", "text"]
+- !private ["SQ", "CGSize"]
+- ["SQ", "InfoKey"]
+- !private ["SQ", "PFFileObject"]
+- !private ["SQ", "PFObject"]
+- !private ["SQ", "PFUser"]
+- !private ["SQ", "UIImagePickerController"]
+- ["SQ", ""]
+- !private ["SQ", "af_imageScaled"]
+- !private ["SQ", "allowsEditing"]
+- !private ["SQ", "camera"]
+- !private ["SQ", "commentField"]
+- !private ["SQ", "current"]
+- !private ["SQ", "delegate"]
+- !private ["SQ", "dismiss"]
+- !private ["SQ", "editedImage"]
+- !private ["SQ", "image"]
+- ["SQ", "imagePickerController"]
+- ["SQ", "imagePickerControllerDidCancel"]
+- !private ["SQ", "imageView"]
+- !private ["SQ", "init"]
+- !private ["SQ", "isSourceTypeAvailable"]
+- ["SQ", "navigationController"]
+- ["SQ", "navigationControllerPreferredInterfaceOrientationForPresentation"]
+- ["SQ", "navigationControllerSupportedInterfaceOrientations"]
+- !private ["SQ", "photoLibrary"]
+- !private ["SQ", "pngData"]
+- !private ["SQ", "present"]
+- !private ["SQ", "print"]
+- !private ["SQ", "saveInBackground"]
+- !private ["SQ", "sourceType"]
+- !private ["SQ", "subscript"]
+- !private ["SQ", "text"]
+- !private ["SQ", "viewDidLoad"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "subscript"]
+- !private ["s23ExpressibleByNilLiteralP", "image"]
+- !private ["s23ExpressibleByNilLiteralP", "text"]
+- !private ["SH", "CGSize"]
+- ["SH", "InfoKey"]
+- !private ["SH", "PFFileObject"]
+- !private ["SH", "PFObject"]
+- !private ["SH", "PFUser"]
+- !private ["SH", "UIImagePickerController"]
+- ["SH", ""]
+- !private ["SH", "af_imageScaled"]
+- !private ["SH", "allowsEditing"]
+- !private ["SH", "camera"]
+- !private ["SH", "commentField"]
+- !private ["SH", "current"]
+- !private ["SH", "delegate"]
+- !private ["SH", "dismiss"]
+- !private ["SH", "editedImage"]
+- !private ["SH", "image"]
+- ["SH", "imagePickerController"]
+- ["SH", "imagePickerControllerDidCancel"]
+- !private ["SH", "imageView"]
+- !private ["SH", "init"]
+- !private ["SH", "isSourceTypeAvailable"]
+- ["SH", "navigationController"]
+- ["SH", "navigationControllerPreferredInterfaceOrientationForPresentation"]
+- ["SH", "navigationControllerSupportedInterfaceOrientations"]
+- !private ["SH", "photoLibrary"]
+- !private ["SH", "pngData"]
+- !private ["SH", "present"]
+- !private ["SH", "print"]
+- !private ["SH", "saveInBackground"]
+- !private ["SH", "sourceType"]
+- !private ["SH", "subscript"]
+- !private ["SH", "text"]
+- !private ["SH", "viewDidLoad"]
+- !private ["SD5IndexV", "editedImage"]
+- !private ["So30UIImagePickerControllerInfoKeya", "editedImage"]
+- !private ["So8NSCodingP", "CGSize"]
+- ["So8NSCodingP", "InfoKey"]
+- !private ["So8NSCodingP", "PFFileObject"]
+- !private ["So8NSCodingP", "PFObject"]
+- !private ["So8NSCodingP", "PFUser"]
+- !private ["So8NSCodingP", "UIImagePickerController"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "af_imageScaled"]
+- !private ["So8NSCodingP", "allowsEditing"]
+- !private ["So8NSCodingP", "commentField"]
+- !private ["So8NSCodingP", "delegate"]
+- !private ["So8NSCodingP", "dismiss"]
+- !private ["So8NSCodingP", "image"]
+- ["So8NSCodingP", "imagePickerController"]
+- ["So8NSCodingP", "imagePickerControllerDidCancel"]
+- !private ["So8NSCodingP", "imageView"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "isSourceTypeAvailable"]
+- ["So8NSCodingP", "navigationController"]
+- ["So8NSCodingP", "navigationControllerPreferredInterfaceOrientationForPresentation"]
+- ["So8NSCodingP", "navigationControllerSupportedInterfaceOrientations"]
+- !private ["So8NSCodingP", "pngData"]
+- !private ["So8NSCodingP", "present"]
+- !private ["So8NSCodingP", "print"]
+- !private ["So8NSCodingP", "sourceType"]
+- !private ["So8NSCodingP", "text"]
+- !private ["So8NSCodingP", "viewDidLoad"]
+- !private ["So26NSExtensionRequestHandlingP", "CGSize"]
+- ["So26NSExtensionRequestHandlingP", "InfoKey"]
+- !private ["So26NSExtensionRequestHandlingP", "PFFileObject"]
+- !private ["So26NSExtensionRequestHandlingP", "PFObject"]
+- !private ["So26NSExtensionRequestHandlingP", "PFUser"]
+- !private ["So26NSExtensionRequestHandlingP", "UIImagePickerController"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- !private ["So26NSExtensionRequestHandlingP", "allowsEditing"]
+- !private ["So26NSExtensionRequestHandlingP", "commentField"]
+- !private ["So26NSExtensionRequestHandlingP", "delegate"]
+- !private ["So26NSExtensionRequestHandlingP", "dismiss"]
+- ["So26NSExtensionRequestHandlingP", "imagePickerController"]
+- ["So26NSExtensionRequestHandlingP", "imagePickerControllerDidCancel"]
+- !private ["So26NSExtensionRequestHandlingP", "imageView"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "isSourceTypeAvailable"]
+- ["So26NSExtensionRequestHandlingP", "navigationController"]
+- ["So26NSExtensionRequestHandlingP", "navigationControllerPreferredInterfaceOrientationForPresentation"]
+- ["So26NSExtensionRequestHandlingP", "navigationControllerSupportedInterfaceOrientations"]
+- !private ["So26NSExtensionRequestHandlingP", "present"]
+- !private ["So26NSExtensionRequestHandlingP", "print"]
+- !private ["So26NSExtensionRequestHandlingP", "sourceType"]
+- !private ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- !private ["So21NSItemProviderReadingP", "af_imageScaled"]
+- !private ["So21NSItemProviderReadingP", "pngData"]
+- !private ["So21NSItemProviderWritingP", "af_imageScaled"]
+- !private ["So21NSItemProviderWritingP", "pngData"]
+- !private ["So8NSObjectC", "CGSize"]
+- ["So8NSObjectC", "InfoKey"]
+- !private ["So8NSObjectC", "PFFileObject"]
+- !private ["So8NSObjectC", "PFObject"]
+- !private ["So8NSObjectC", "PFUser"]
+- !private ["So8NSObjectC", "UIImage"]
+- ["So8NSObjectC", "UIImagePickerController"]
+- ["So8NSObjectC", "UIImageView"]
+- ["So8NSObjectC", "UITextField"]
+- !private ["So8NSObjectC", "af_imageScaled"]
+- !private ["So8NSObjectC", "allowsEditing"]
+- ["So8NSObjectC", "commentField"]
+- !private ["So8NSObjectC", "current"]
+- !private ["So8NSObjectC", "delegate"]
+- !private ["So8NSObjectC", "dismiss"]
+- !private ["So8NSObjectC", "image"]
+- ["So8NSObjectC", "imagePickerController"]
+- ["So8NSObjectC", "imagePickerControllerDidCancel"]
+- ["So8NSObjectC", "imageView"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "isSourceTypeAvailable"]
+- ["So8NSObjectC", "navigationController"]
+- ["So8NSObjectC", "navigationControllerPreferredInterfaceOrientationForPresentation"]
+- ["So8NSObjectC", "navigationControllerSupportedInterfaceOrientations"]
+- ["So8NSObjectC", "onCameraButton"]
+- ["So8NSObjectC", "onSubmitButton"]
+- !private ["So8NSObjectC", "pngData"]
+- !private ["So8NSObjectC", "present"]
+- !private ["So8NSObjectC", "print"]
+- !private ["So8NSObjectC", "saveInBackground"]
+- !private ["So8NSObjectC", "sourceType"]
+- !private ["So8NSObjectC", "subscript"]
+- !private ["So8NSObjectC", "text"]
+- ["So8NSObjectC", "viewDidLoad"]
+- !private ["So8NSObjectP", "CGSize"]
+- ["So8NSObjectP", "InfoKey"]
+- !private ["So8NSObjectP", "PFFileObject"]
+- !private ["So8NSObjectP", "PFObject"]
+- !private ["So8NSObjectP", "PFUser"]
+- !private ["So8NSObjectP", "UIImagePickerController"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "af_imageScaled"]
+- !private ["So8NSObjectP", "allowsEditing"]
+- !private ["So8NSObjectP", "commentField"]
+- !private ["So8NSObjectP", "current"]
+- !private ["So8NSObjectP", "delegate"]
+- !private ["So8NSObjectP", "dismiss"]
+- !private ["So8NSObjectP", "image"]
+- ["So8NSObjectP", "imagePickerController"]
+- ["So8NSObjectP", "imagePickerControllerDidCancel"]
+- !private ["So8NSObjectP", "imageView"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "isSourceTypeAvailable"]
+- ["So8NSObjectP", "navigationController"]
+- ["So8NSObjectP", "navigationControllerPreferredInterfaceOrientationForPresentation"]
+- ["So8NSObjectP", "navigationControllerSupportedInterfaceOrientations"]
+- !private ["So8NSObjectP", "pngData"]
+- !private ["So8NSObjectP", "present"]
+- !private ["So8NSObjectP", "print"]
+- !private ["So8NSObjectP", "saveInBackground"]
+- !private ["So8NSObjectP", "sourceType"]
+- !private ["So8NSObjectP", "subscript"]
+- !private ["So8NSObjectP", "text"]
+- !private ["So8NSObjectP", "viewDidLoad"]
+- !private ["So14NSSecureCodingP", "af_imageScaled"]
+- !private ["So14NSSecureCodingP", "pngData"]
+- !private ["Sq", "image"]
+- !private ["Sq", "text"]
+- !private ["So12PFFileObjectC", "init"]
+- !private ["So8PFObjectC", "current"]
+- !private ["So8PFObjectC", "init"]
+- !private ["So8PFObjectC", "saveInBackground"]
+- !private ["So8PFObjectC", "subscript"]
+- !private ["So13PFSubclassingP", "current"]
+- !private ["So6PFUserC", "current"]
+- !private ["Sk", "editedImage"]
+- !private ["Sn", "editedImage"]
+- !private ["SX", "editedImage"]
+- !private ["SY", "camera"]
+- !private ["SY", "editedImage"]
+- !private ["SY", "photoLibrary"]
+- !private ["ST", "editedImage"]
+- !private ["ST", "subscript"]
+- !private ["So33UIImagePickerControllerSourceTypeV", "camera"]
+- !private ["So33UIImagePickerControllerSourceTypeV", "photoLibrary"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "image"]
+- !private ["So29UIAccessibilityIdentificationP", "af_imageScaled"]
+- !private ["So29UIAccessibilityIdentificationP", "image"]
+- !private ["So29UIAccessibilityIdentificationP", "pngData"]
+- !private ["So29UIAccessibilityIdentificationP", "text"]
+- !private ["So12UIAppearanceP", "image"]
+- !private ["So12UIAppearanceP", "text"]
+- !private ["So21UIAppearanceContainerP", "CGSize"]
+- ["So21UIAppearanceContainerP", "InfoKey"]
+- !private ["So21UIAppearanceContainerP", "PFFileObject"]
+- !private ["So21UIAppearanceContainerP", "PFObject"]
+- !private ["So21UIAppearanceContainerP", "PFUser"]
+- !private ["So21UIAppearanceContainerP", "UIImagePickerController"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So21UIAppearanceContainerP", "allowsEditing"]
+- !private ["So21UIAppearanceContainerP", "commentField"]
+- !private ["So21UIAppearanceContainerP", "delegate"]
+- !private ["So21UIAppearanceContainerP", "dismiss"]
+- !private ["So21UIAppearanceContainerP", "image"]
+- ["So21UIAppearanceContainerP", "imagePickerController"]
+- ["So21UIAppearanceContainerP", "imagePickerControllerDidCancel"]
+- !private ["So21UIAppearanceContainerP", "imageView"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "isSourceTypeAvailable"]
+- ["So21UIAppearanceContainerP", "navigationController"]
+- ["So21UIAppearanceContainerP", "navigationControllerPreferredInterfaceOrientationForPresentation"]
+- ["So21UIAppearanceContainerP", "navigationControllerSupportedInterfaceOrientations"]
+- !private ["So21UIAppearanceContainerP", "present"]
+- !private ["So21UIAppearanceContainerP", "print"]
+- !private ["So21UIAppearanceContainerP", "sourceType"]
+- !private ["So21UIAppearanceContainerP", "text"]
+- !private ["So21UIAppearanceContainerP", "viewDidLoad"]
+- !private ["So18UIContentContainerP", "CGSize"]
+- ["So18UIContentContainerP", "InfoKey"]
+- !private ["So18UIContentContainerP", "PFFileObject"]
+- !private ["So18UIContentContainerP", "PFObject"]
+- !private ["So18UIContentContainerP", "PFUser"]
+- !private ["So18UIContentContainerP", "UIImagePickerController"]
+- ["So18UIContentContainerP", ""]
+- !private ["So18UIContentContainerP", "allowsEditing"]
+- !private ["So18UIContentContainerP", "commentField"]
+- !private ["So18UIContentContainerP", "delegate"]
+- !private ["So18UIContentContainerP", "dismiss"]
+- ["So18UIContentContainerP", "imagePickerController"]
+- ["So18UIContentContainerP", "imagePickerControllerDidCancel"]
+- !private ["So18UIContentContainerP", "imageView"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "isSourceTypeAvailable"]
+- ["So18UIContentContainerP", "navigationController"]
+- ["So18UIContentContainerP", "navigationControllerPreferredInterfaceOrientationForPresentation"]
+- ["So18UIContentContainerP", "navigationControllerSupportedInterfaceOrientations"]
+- !private ["So18UIContentContainerP", "present"]
+- !private ["So18UIContentContainerP", "print"]
+- !private ["So18UIContentContainerP", "sourceType"]
+- !private ["So18UIContentContainerP", "viewDidLoad"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "text"]
+- !private ["So9UIControlC", "text"]
+- !private ["So17UICoordinateSpaceP", "image"]
+- !private ["So17UICoordinateSpaceP", "text"]
+- !private ["So13UIDynamicItemP", "image"]
+- !private ["So13UIDynamicItemP", "text"]
+- !private ["So18UIFocusEnvironmentP", "CGSize"]
+- ["So18UIFocusEnvironmentP", "InfoKey"]
+- !private ["So18UIFocusEnvironmentP", "PFFileObject"]
+- !private ["So18UIFocusEnvironmentP", "PFObject"]
+- !private ["So18UIFocusEnvironmentP", "PFUser"]
+- !private ["So18UIFocusEnvironmentP", "UIImagePickerController"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So18UIFocusEnvironmentP", "allowsEditing"]
+- !private ["So18UIFocusEnvironmentP", "commentField"]
+- !private ["So18UIFocusEnvironmentP", "delegate"]
+- !private ["So18UIFocusEnvironmentP", "dismiss"]
+- !private ["So18UIFocusEnvironmentP", "image"]
+- ["So18UIFocusEnvironmentP", "imagePickerController"]
+- ["So18UIFocusEnvironmentP", "imagePickerControllerDidCancel"]
+- !private ["So18UIFocusEnvironmentP", "imageView"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "isSourceTypeAvailable"]
+- ["So18UIFocusEnvironmentP", "navigationController"]
+- ["So18UIFocusEnvironmentP", "navigationControllerPreferredInterfaceOrientationForPresentation"]
+- ["So18UIFocusEnvironmentP", "navigationControllerSupportedInterfaceOrientations"]
+- !private ["So18UIFocusEnvironmentP", "present"]
+- !private ["So18UIFocusEnvironmentP", "print"]
+- !private ["So18UIFocusEnvironmentP", "sourceType"]
+- !private ["So18UIFocusEnvironmentP", "text"]
+- !private ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- !private ["So11UIFocusItemP", "image"]
+- !private ["So11UIFocusItemP", "text"]
+- !private ["So20UIFocusItemContainerP", "image"]
+- !private ["So20UIFocusItemContainerP", "text"]
+- !private ["So7UIImageC", "af_imageScaled"]
+- !private ["So7UIImageC", "pngData"]
+- ["So23UIImagePickerControllerC", "InfoKey"]
+- !private ["So23UIImagePickerControllerC", "allowsEditing"]
+- !private ["So23UIImagePickerControllerC", "delegate"]
+- !private ["So23UIImagePickerControllerC", "init"]
+- !private ["So23UIImagePickerControllerC", "isSourceTypeAvailable"]
+- !private ["So23UIImagePickerControllerC", "sourceType"]
+- !private ["So31UIImagePickerControllerDelegateP", "CGSize"]
+- !private ["So31UIImagePickerControllerDelegateP", "PFFileObject"]
+- !private ["So31UIImagePickerControllerDelegateP", "PFObject"]
+- !private ["So31UIImagePickerControllerDelegateP", "PFUser"]
+- !private ["So31UIImagePickerControllerDelegateP", "UIImagePickerController"]
+- ["So31UIImagePickerControllerDelegateP", ""]
+- !private ["So31UIImagePickerControllerDelegateP", "commentField"]
+- !private ["So31UIImagePickerControllerDelegateP", "dismiss"]
+- ["So31UIImagePickerControllerDelegateP", "imagePickerController"]
+- ["So31UIImagePickerControllerDelegateP", "imagePickerControllerDidCancel"]
+- !private ["So31UIImagePickerControllerDelegateP", "imageView"]
+- ["So31UIImagePickerControllerDelegateP", "navigationController"]
+- ["So31UIImagePickerControllerDelegateP", "navigationControllerPreferredInterfaceOrientationForPresentation"]
+- ["So31UIImagePickerControllerDelegateP", "navigationControllerSupportedInterfaceOrientations"]
+- !private ["So31UIImagePickerControllerDelegateP", "present"]
+- !private ["So31UIImagePickerControllerDelegateP", "print"]
+- !private ["So11UIImageViewC", "image"]
+- !private ["So39UIItemProviderPresentationSizeProvidingP", "af_imageScaled"]
+- !private ["So39UIItemProviderPresentationSizeProvidingP", "pngData"]
+- !private ["So10UIKeyInputP", "text"]
+- ["So22UINavigationControllerC", "InfoKey"]
+- !private ["So22UINavigationControllerC", "allowsEditing"]
+- !private ["So22UINavigationControllerC", "delegate"]
+- !private ["So22UINavigationControllerC", "init"]
+- !private ["So22UINavigationControllerC", "isSourceTypeAvailable"]
+- !private ["So22UINavigationControllerC", "sourceType"]
+- !private ["So30UINavigationControllerDelegateP", "CGSize"]
+- !private ["So30UINavigationControllerDelegateP", "PFFileObject"]
+- !private ["So30UINavigationControllerDelegateP", "PFObject"]
+- !private ["So30UINavigationControllerDelegateP", "PFUser"]
+- !private ["So30UINavigationControllerDelegateP", "UIImagePickerController"]
+- ["So30UINavigationControllerDelegateP", ""]
+- !private ["So30UINavigationControllerDelegateP", "commentField"]
+- !private ["So30UINavigationControllerDelegateP", "dismiss"]
+- ["So30UINavigationControllerDelegateP", "imagePickerController"]
+- ["So30UINavigationControllerDelegateP", "imagePickerControllerDidCancel"]
+- !private ["So30UINavigationControllerDelegateP", "imageView"]
+- ["So30UINavigationControllerDelegateP", "navigationController"]
+- ["So30UINavigationControllerDelegateP", "navigationControllerPreferredInterfaceOrientationForPresentation"]
+- ["So30UINavigationControllerDelegateP", "navigationControllerSupportedInterfaceOrientations"]
+- !private ["So30UINavigationControllerDelegateP", "present"]
+- !private ["So30UINavigationControllerDelegateP", "print"]
+- !private ["So30UIPasteConfigurationSupportingP", "CGSize"]
+- ["So30UIPasteConfigurationSupportingP", "InfoKey"]
+- !private ["So30UIPasteConfigurationSupportingP", "PFFileObject"]
+- !private ["So30UIPasteConfigurationSupportingP", "PFObject"]
+- !private ["So30UIPasteConfigurationSupportingP", "PFUser"]
+- !private ["So30UIPasteConfigurationSupportingP", "UIImagePickerController"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "allowsEditing"]
+- !private ["So30UIPasteConfigurationSupportingP", "commentField"]
+- !private ["So30UIPasteConfigurationSupportingP", "delegate"]
+- !private ["So30UIPasteConfigurationSupportingP", "dismiss"]
+- !private ["So30UIPasteConfigurationSupportingP", "image"]
+- ["So30UIPasteConfigurationSupportingP", "imagePickerController"]
+- ["So30UIPasteConfigurationSupportingP", "imagePickerControllerDidCancel"]
+- !private ["So30UIPasteConfigurationSupportingP", "imageView"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "isSourceTypeAvailable"]
+- ["So30UIPasteConfigurationSupportingP", "navigationController"]
+- ["So30UIPasteConfigurationSupportingP", "navigationControllerPreferredInterfaceOrientationForPresentation"]
+- ["So30UIPasteConfigurationSupportingP", "navigationControllerSupportedInterfaceOrientations"]
+- !private ["So30UIPasteConfigurationSupportingP", "present"]
+- !private ["So30UIPasteConfigurationSupportingP", "print"]
+- !private ["So30UIPasteConfigurationSupportingP", "sourceType"]
+- !private ["So30UIPasteConfigurationSupportingP", "text"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- !private ["So11UIResponderC", "CGSize"]
+- ["So11UIResponderC", "InfoKey"]
+- !private ["So11UIResponderC", "PFFileObject"]
+- !private ["So11UIResponderC", "PFObject"]
+- !private ["So11UIResponderC", "PFUser"]
+- !private ["So11UIResponderC", "UIImage"]
+- ["So11UIResponderC", "UIImagePickerController"]
+- ["So11UIResponderC", "UIImageView"]
+- ["So11UIResponderC", "UITextField"]
+- !private ["So11UIResponderC", "allowsEditing"]
+- ["So11UIResponderC", "commentField"]
+- !private ["So11UIResponderC", "delegate"]
+- !private ["So11UIResponderC", "dismiss"]
+- !private ["So11UIResponderC", "image"]
+- ["So11UIResponderC", "imagePickerController"]
+- ["So11UIResponderC", "imagePickerControllerDidCancel"]
+- ["So11UIResponderC", "imageView"]
+- ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "isSourceTypeAvailable"]
+- ["So11UIResponderC", "navigationController"]
+- ["So11UIResponderC", "navigationControllerPreferredInterfaceOrientationForPresentation"]
+- ["So11UIResponderC", "navigationControllerSupportedInterfaceOrientations"]
+- ["So11UIResponderC", "onCameraButton"]
+- ["So11UIResponderC", "onSubmitButton"]
+- !private ["So11UIResponderC", "present"]
+- !private ["So11UIResponderC", "print"]
+- !private ["So11UIResponderC", "sourceType"]
+- !private ["So11UIResponderC", "text"]
+- ["So11UIResponderC", "viewDidLoad"]
+- !private ["So30UIResponderStandardEditActionsP", "CGSize"]
+- ["So30UIResponderStandardEditActionsP", "InfoKey"]
+- !private ["So30UIResponderStandardEditActionsP", "PFFileObject"]
+- !private ["So30UIResponderStandardEditActionsP", "PFObject"]
+- !private ["So30UIResponderStandardEditActionsP", "PFUser"]
+- !private ["So30UIResponderStandardEditActionsP", "UIImagePickerController"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "allowsEditing"]
+- !private ["So30UIResponderStandardEditActionsP", "commentField"]
+- !private ["So30UIResponderStandardEditActionsP", "delegate"]
+- !private ["So30UIResponderStandardEditActionsP", "dismiss"]
+- !private ["So30UIResponderStandardEditActionsP", "image"]
+- ["So30UIResponderStandardEditActionsP", "imagePickerController"]
+- ["So30UIResponderStandardEditActionsP", "imagePickerControllerDidCancel"]
+- !private ["So30UIResponderStandardEditActionsP", "imageView"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "isSourceTypeAvailable"]
+- ["So30UIResponderStandardEditActionsP", "navigationController"]
+- ["So30UIResponderStandardEditActionsP", "navigationControllerPreferredInterfaceOrientationForPresentation"]
+- ["So30UIResponderStandardEditActionsP", "navigationControllerSupportedInterfaceOrientations"]
+- !private ["So30UIResponderStandardEditActionsP", "present"]
+- !private ["So30UIResponderStandardEditActionsP", "print"]
+- !private ["So30UIResponderStandardEditActionsP", "sourceType"]
+- !private ["So30UIResponderStandardEditActionsP", "text"]
+- !private ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- !private ["So16UIStateRestoringP", "CGSize"]
+- ["So16UIStateRestoringP", "InfoKey"]
+- !private ["So16UIStateRestoringP", "PFFileObject"]
+- !private ["So16UIStateRestoringP", "PFObject"]
+- !private ["So16UIStateRestoringP", "PFUser"]
+- !private ["So16UIStateRestoringP", "UIImagePickerController"]
+- ["So16UIStateRestoringP", ""]
+- !private ["So16UIStateRestoringP", "allowsEditing"]
+- !private ["So16UIStateRestoringP", "commentField"]
+- !private ["So16UIStateRestoringP", "delegate"]
+- !private ["So16UIStateRestoringP", "dismiss"]
+- ["So16UIStateRestoringP", "imagePickerController"]
+- ["So16UIStateRestoringP", "imagePickerControllerDidCancel"]
+- !private ["So16UIStateRestoringP", "imageView"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "isSourceTypeAvailable"]
+- ["So16UIStateRestoringP", "navigationController"]
+- ["So16UIStateRestoringP", "navigationControllerPreferredInterfaceOrientationForPresentation"]
+- ["So16UIStateRestoringP", "navigationControllerSupportedInterfaceOrientations"]
+- !private ["So16UIStateRestoringP", "present"]
+- !private ["So16UIStateRestoringP", "print"]
+- !private ["So16UIStateRestoringP", "sourceType"]
+- !private ["So16UIStateRestoringP", "viewDidLoad"]
+- !private ["So15UITextDraggableP", "text"]
+- !private ["So15UITextDroppableP", "text"]
+- !private ["So11UITextFieldC", "text"]
+- !private ["So11UITextInputP", "text"]
+- !private ["So17UITextInputTraitsP", "text"]
+- !private ["So34UITextPasteConfigurationSupportingP", "text"]
+- !private ["So18UITraitEnvironmentP", "CGSize"]
+- ["So18UITraitEnvironmentP", "InfoKey"]
+- !private ["So18UITraitEnvironmentP", "PFFileObject"]
+- !private ["So18UITraitEnvironmentP", "PFObject"]
+- !private ["So18UITraitEnvironmentP", "PFUser"]
+- !private ["So18UITraitEnvironmentP", "UIImagePickerController"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So18UITraitEnvironmentP", "allowsEditing"]
+- !private ["So18UITraitEnvironmentP", "commentField"]
+- !private ["So18UITraitEnvironmentP", "delegate"]
+- !private ["So18UITraitEnvironmentP", "dismiss"]
+- !private ["So18UITraitEnvironmentP", "image"]
+- ["So18UITraitEnvironmentP", "imagePickerController"]
+- ["So18UITraitEnvironmentP", "imagePickerControllerDidCancel"]
+- !private ["So18UITraitEnvironmentP", "imageView"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "isSourceTypeAvailable"]
+- ["So18UITraitEnvironmentP", "navigationController"]
+- ["So18UITraitEnvironmentP", "navigationControllerPreferredInterfaceOrientationForPresentation"]
+- ["So18UITraitEnvironmentP", "navigationControllerSupportedInterfaceOrientations"]
+- !private ["So18UITraitEnvironmentP", "present"]
+- !private ["So18UITraitEnvironmentP", "print"]
+- !private ["So18UITraitEnvironmentP", "sourceType"]
+- !private ["So18UITraitEnvironmentP", "text"]
+- !private ["So18UITraitEnvironmentP", "viewDidLoad"]
+- !private ["So23UIUserActivityRestoringP", "CGSize"]
+- ["So23UIUserActivityRestoringP", "InfoKey"]
+- !private ["So23UIUserActivityRestoringP", "PFFileObject"]
+- !private ["So23UIUserActivityRestoringP", "PFObject"]
+- !private ["So23UIUserActivityRestoringP", "PFUser"]
+- !private ["So23UIUserActivityRestoringP", "UIImagePickerController"]
+- ["So23UIUserActivityRestoringP", ""]
+- !private ["So23UIUserActivityRestoringP", "allowsEditing"]
+- !private ["So23UIUserActivityRestoringP", "commentField"]
+- !private ["So23UIUserActivityRestoringP", "delegate"]
+- !private ["So23UIUserActivityRestoringP", "dismiss"]
+- !private ["So23UIUserActivityRestoringP", "image"]
+- ["So23UIUserActivityRestoringP", "imagePickerController"]
+- ["So23UIUserActivityRestoringP", "imagePickerControllerDidCancel"]
+- !private ["So23UIUserActivityRestoringP", "imageView"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "isSourceTypeAvailable"]
+- ["So23UIUserActivityRestoringP", "navigationController"]
+- ["So23UIUserActivityRestoringP", "navigationControllerPreferredInterfaceOrientationForPresentation"]
+- ["So23UIUserActivityRestoringP", "navigationControllerSupportedInterfaceOrientations"]
+- !private ["So23UIUserActivityRestoringP", "present"]
+- !private ["So23UIUserActivityRestoringP", "print"]
+- !private ["So23UIUserActivityRestoringP", "sourceType"]
+- !private ["So23UIUserActivityRestoringP", "text"]
+- !private ["So23UIUserActivityRestoringP", "viewDidLoad"]
+- !private ["So6UIViewC", "image"]
+- !private ["So6UIViewC", "text"]
+- !private ["So16UIViewControllerC", "CGSize"]
+- ["So16UIViewControllerC", "InfoKey"]
+- !private ["So16UIViewControllerC", "PFFileObject"]
+- !private ["So16UIViewControllerC", "PFObject"]
+- !private ["So16UIViewControllerC", "PFUser"]
+- !private ["So16UIViewControllerC", "UIImage"]
+- ["So16UIViewControllerC", "UIImagePickerController"]
+- ["So16UIViewControllerC", "UIImageView"]
+- ["So16UIViewControllerC", "UITextField"]
+- ["So16UIViewControllerC", ""]
+- !private ["So16UIViewControllerC", "allowsEditing"]
+- ["So16UIViewControllerC", "commentField"]
+- !private ["So16UIViewControllerC", "delegate"]
+- !private ["So16UIViewControllerC", "dismiss"]
+- ["So16UIViewControllerC", "imagePickerController"]
+- ["So16UIViewControllerC", "imagePickerControllerDidCancel"]
+- ["So16UIViewControllerC", "imageView"]
+- ["So16UIViewControllerC", "init"]
+- !private ["So16UIViewControllerC", "isSourceTypeAvailable"]
+- ["So16UIViewControllerC", "navigationController"]
+- ["So16UIViewControllerC", "navigationControllerPreferredInterfaceOrientationForPresentation"]
+- ["So16UIViewControllerC", "navigationControllerSupportedInterfaceOrientations"]
+- ["So16UIViewControllerC", "onCameraButton"]
+- ["So16UIViewControllerC", "onSubmitButton"]
+- !private ["So16UIViewControllerC", "present"]
+- !private ["So16UIViewControllerC", "print"]
+- !private ["So16UIViewControllerC", "sourceType"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "init"]
+- !private ["s26_ExpressibleByImageLiteralP", "af_imageScaled"]
+- !private ["s26_ExpressibleByImageLiteralP", "pngData"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "editedImage"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "subscript"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "CGSize"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "InfoKey"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "PFFileObject"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "PFObject"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "PFUser"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIImagePickerController"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "af_imageScaled"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "allowsEditing"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "commentField"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "current"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "delegate"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "dismiss"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "image"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "imagePickerController"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "imagePickerControllerDidCancel"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "imageView"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "isSourceTypeAvailable"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "navigationController"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "navigationControllerPreferredInterfaceOrientationForPresentation"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "navigationControllerSupportedInterfaceOrientations"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "pngData"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "present"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "print"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "saveInBackground"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "sourceType"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "subscript"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "text"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- !private ["s21_ObjectiveCBridgeableP", "editedImage"]
+- !private ["s21_ObjectiveCBridgeableP", "image"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+- !private ["s21_ObjectiveCBridgeableP", "text"]
+- !private ["s20_SwiftNewtypeWrapperP", "editedImage"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "image"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "text"]
+depends-nominal:
+- !private "SK"
+- !private "So15CALayerDelegateP"
+- !private "So6CGSizeV"
+- "s7CVarArgP"
+- "10Parstagram20CameraViewControllerC"
+- !private "Sl"
+- !private "SL"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SD"
+- !private "SE"
+- "SQ"
+- !private "s30ExpressibleByDictionaryLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- "SH"
+- !private "SD5IndexV"
+- !private "So30UIImagePickerControllerInfoKeya"
+- "So8NSCodingP"
+- "So26NSExtensionRequestHandlingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "So14NSSecureCodingP"
+- !private "Sq"
+- !private "So12PFFileObjectC"
+- !private "So8PFObjectC"
+- !private "So13PFSubclassingP"
+- !private "So6PFUserC"
+- !private "Sk"
+- !private "Sn"
+- !private "SX"
+- !private "SY"
+- !private "ST"
+- !private "So33UIImagePickerControllerSourceTypeV"
+- !private "So48UIAccessibilityContentSizeCategoryImageAdjustingP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So18UIContentContainerP"
+- !private "So30UIContentSizeCategoryAdjustingP"
+- !private "So9UIControlC"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So20UIFocusItemContainerP"
+- !private "So7UIImageC"
+- "So23UIImagePickerControllerC"
+- "So31UIImagePickerControllerDelegateP"
+- !private "So11UIImageViewC"
+- !private "So39UIItemProviderPresentationSizeProvidingP"
+- !private "So10UIKeyInputP"
+- "So22UINavigationControllerC"
+- "So30UINavigationControllerDelegateP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So16UIStateRestoringP"
+- !private "So15UITextDraggableP"
+- !private "So15UITextDroppableP"
+- !private "So11UITextFieldC"
+- !private "So11UITextInputP"
+- !private "So17UITextInputTraitsP"
+- !private "So34UITextPasteConfigurationSupportingP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- !private "So6UIViewC"
+- "So16UIViewControllerC"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- !private "s26_ExpressibleByImageLiteralP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s20_SwiftNewtypeWrapperP"
+- !private "s38__DefaultCustomPlaygroundQuickLookableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Build/Files/Debug-iphonesimulator/AlamofireImage/AlamofireImage.framework/Modules/AlamofireImage.swiftmodule/x86_64.swiftmodule"
+- "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Build/Files/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/Alamofire.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreLocation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Build/Files/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFACL.h"
+- "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Build/Files/Debug-iphonesimulator/AlamofireImage/AlamofireImage.framework/Headers/AlamofireImage-umbrella.h"
+- "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Build/Files/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-umbrella.h"
+- "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Build/Files/Debug-iphonesimulator/Parse/Parse.framework/Headers/Parse-umbrella.h"
+- "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Build/Files/Debug-iphonesimulator/Bolts/Bolts.framework/Headers/Bolts-umbrella.h"
+- "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Build/Files/Debug-iphonesimulator/Bolts/Bolts.framework/Headers/BFGeneric.h"
+- "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Build/Files/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFCloud+Deprecated.h"
+- "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Build/Files/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFPush+Deprecated.h"
+- "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Build/Files/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFUser+Deprecated.h"
+- "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Build/Files/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFAnonymousUtils+Deprecated.h"
+- "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Build/Files/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFObject+Deprecated.h"
+- "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Build/Files/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFFileObject+Deprecated.h"
+- "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Build/Files/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFQuery+Deprecated.h"
+- "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Build/Files/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFCloud.h"
+- "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Build/Files/Debug-iphonesimulator/Bolts/Bolts.framework/Headers/BFCancellationTokenSource.h"
+- "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Build/Files/Debug-iphonesimulator/Bolts/Bolts.framework/Headers/BFTaskCompletionSource.h"
+- "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Build/Files/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFRole.h"
+- "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Build/Files/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFPurchase.h"
+- "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Build/Files/Debug-iphonesimulator/Parse/Parse.framework/Headers/Parse.h"
+- "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Build/Files/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFUserAuthenticationDelegate.h"
+- "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Build/Files/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFConfig.h"
+- "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Build/Files/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFSubclassing.h"
+- "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Build/Files/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFPush.h"
+- "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Build/Files/Debug-iphonesimulator/Bolts/Bolts.framework/Headers/BFTask.h"
+- "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Build/Files/Debug-iphonesimulator/Bolts/Bolts.framework/Headers/BFCancellationToken.h"
+- "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Build/Files/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFPolygon.h"
+- "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Build/Files/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFSession.h"
+- "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Build/Files/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFRelation.h"
+- "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Build/Files/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFInstallation.h"
+- "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Build/Files/Debug-iphonesimulator/Bolts/Bolts.framework/Headers/BFCancellationTokenRegistration.h"
+- "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Build/Files/Debug-iphonesimulator/Parse/Parse.framework/Headers/ParseClientConfiguration.h"
+- "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Build/Files/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFDecoder.h"
+- "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Build/Files/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFEncoder.h"
+- "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Build/Files/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFNetworkActivityIndicatorManager.h"
+- "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Build/Files/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFFileUploadController.h"
+- "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Build/Files/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFUser.h"
+- "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Build/Files/Debug-iphonesimulator/Bolts/Bolts.framework/Headers/BFExecutor.h"
+- "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Build/Files/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFAnalytics.h"
+- "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Build/Files/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFAnonymousUtils.h"
+- "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Build/Files/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFObject+Subclass.h"
+- "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Build/Files/Debug-iphonesimulator/Bolts/Bolts.framework/Headers/Bolts.h"
+- "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Build/Files/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFConstants.h"
+- "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Build/Files/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFCloud+Synchronous.h"
+- "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Build/Files/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFConfig+Synchronous.h"
+- "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Build/Files/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFPush+Synchronous.h"
+- "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Build/Files/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFUser+Synchronous.h"
+- "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Build/Files/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFObject+Synchronous.h"
+- "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Build/Files/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFFileObject+Synchronous.h"
+- "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Build/Files/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFQuery+Synchronous.h"
+- "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Build/Files/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFObject.h"
+- "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Build/Files/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFFileObject.h"
+- "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Build/Files/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFProduct.h"
+- "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Build/Files/Debug-iphonesimulator/AlamofireImage/AlamofireImage.framework/Headers/AlamofireImage-Swift.h"
+- "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Build/Files/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+- "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Build/Files/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFFileUploadResult.h"
+- "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Build/Files/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFGeoPoint.h"
+- "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Build/Files/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFQuery.h"
+- "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Build/Files/Debug-iphonesimulator/AlamofireImage/AlamofireImage.framework/Modules/module.modulemap"
+- "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Build/Files/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/module.modulemap"
+- "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Build/Files/Debug-iphonesimulator/Parse/Parse.framework/Modules/module.modulemap"
+- "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Build/Files/Debug-iphonesimulator/Bolts/Bolts.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/StoreKit.framework/Headers/StoreKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "4508a3840f83748488d5a0ba757d37f1"

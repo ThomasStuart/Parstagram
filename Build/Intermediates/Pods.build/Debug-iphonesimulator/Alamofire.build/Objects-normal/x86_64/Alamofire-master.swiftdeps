@@ -1,0 +1,21 @@
+version: "Apple Swift version 5.0 (swiftlang-1001.0.69.5 clang-1001.0.46.3)"
+options: "d20c35062e11796b5315032273ae63ae"
+build_time: [1554686377, 751160000]
+inputs:
+  "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Pods/Alamofire/Source/AFError.swift": [1554587830, 792559518]
+  "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Pods/Alamofire/Source/Alamofire.swift": [1554587830, 795099408]
+  "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Pods/Alamofire/Source/DispatchQueue+Alamofire.swift": [1554587830, 790338568]
+  "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Pods/Alamofire/Source/MultipartFormData.swift": [1554587830, 788962319]
+  "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Pods/Alamofire/Source/NetworkReachabilityManager.swift": [1554587830, 789452829]
+  "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Pods/Alamofire/Source/Notifications.swift": [1554587830, 793524287]
+  "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Pods/Alamofire/Source/ParameterEncoding.swift": [1554587830, 791817677]
+  "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Pods/Alamofire/Source/Request.swift": [1554587830, 796505839]
+  "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Pods/Alamofire/Source/Response.swift": [1554587830, 794206437]
+  "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Pods/Alamofire/Source/ResponseSerialization.swift": [1554587830, 798374705]
+  "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Pods/Alamofire/Source/Result.swift": [1554587830, 791005924]
+  "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Pods/Alamofire/Source/ServerTrustPolicy.swift": [1554587830, 798963165]
+  "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Pods/Alamofire/Source/SessionDelegate.swift": [1554587830, 799771898]
+  "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Pods/Alamofire/Source/SessionManager.swift": [1554587830, 797505458]
+  "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Pods/Alamofire/Source/TaskDelegate.swift": [1554587830, 788269994]
+  "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Pods/Alamofire/Source/Timeline.swift": [1554587830, 789899471]
+  "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Pods/Alamofire/Source/Validation.swift": [1554587830, 793065587]

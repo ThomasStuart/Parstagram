@@ -1,0 +1,143 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "AFIError"
+provides-nominal:
+- "14AlamofireImage8AFIErrorO"
+provides-member:
+- ["14AlamofireImage8AFIErrorO", ""]
+- ["14AlamofireImage8AFIErrorO", "isRequestCancelledError"]
+- ["14AlamofireImage8AFIErrorO", "isImageSerializationFailedError"]
+provides-dynamic-lookup:
+depends-top-level:
+- "=="
+- "AFIError"
+- "Bool"
+- !private "BooleanLiteralType"
+- "Error"
+- !private "FloatLiteralType"
+- !private "IntegerLiteralType"
+- "LocalizedError"
+- "String"
+- !private "StringLiteralType"
+depends-member:
+- ["14AlamofireImage8AFIErrorO", "=="]
+- ["14AlamofireImage8AFIErrorO", "Bool"]
+- ["14AlamofireImage8AFIErrorO", "String"]
+- ["14AlamofireImage8AFIErrorO", "__derived_enum_equals"]
+- ["14AlamofireImage8AFIErrorO", "_code"]
+- ["14AlamofireImage8AFIErrorO", "_domain"]
+- ["14AlamofireImage8AFIErrorO", "_getEmbeddedNSError"]
+- ["14AlamofireImage8AFIErrorO", "_rawHashValue"]
+- ["14AlamofireImage8AFIErrorO", "_userInfo"]
+- ["14AlamofireImage8AFIErrorO", "deinit"]
+- ["14AlamofireImage8AFIErrorO", "errorDescription"]
+- ["14AlamofireImage8AFIErrorO", "failureReason"]
+- ["14AlamofireImage8AFIErrorO", "hash"]
+- ["14AlamofireImage8AFIErrorO", "hashValue"]
+- ["14AlamofireImage8AFIErrorO", "helpAnchor"]
+- ["14AlamofireImage8AFIErrorO", "imageSerializationFailed"]
+- ["14AlamofireImage8AFIErrorO", "isImageSerializationFailedError"]
+- ["14AlamofireImage8AFIErrorO", "isRequestCancelledError"]
+- ["14AlamofireImage8AFIErrorO", "recoverySuggestion"]
+- ["14AlamofireImage8AFIErrorO", "requestCancelled"]
+- ["SQ", "=="]
+- ["SQ", ""]
+- ["SQ", "_code"]
+- ["SQ", "_domain"]
+- ["SQ", "_getEmbeddedNSError"]
+- ["SQ", "_rawHashValue"]
+- ["SQ", "_userInfo"]
+- ["SQ", "errorDescription"]
+- ["SQ", "failureReason"]
+- ["SQ", "hash"]
+- ["SQ", "hashValue"]
+- ["SQ", "helpAnchor"]
+- ["SQ", "imageSerializationFailed"]
+- ["SQ", "recoverySuggestion"]
+- ["SQ", "requestCancelled"]
+- ["s5ErrorP", "=="]
+- ["s5ErrorP", ""]
+- ["s5ErrorP", "_code"]
+- ["s5ErrorP", "_domain"]
+- ["s5ErrorP", "_getEmbeddedNSError"]
+- ["s5ErrorP", "_rawHashValue"]
+- ["s5ErrorP", "_userInfo"]
+- ["s5ErrorP", "errorDescription"]
+- ["s5ErrorP", "failureReason"]
+- ["s5ErrorP", "hash"]
+- ["s5ErrorP", "hashValue"]
+- ["s5ErrorP", "helpAnchor"]
+- ["s5ErrorP", "imageSerializationFailed"]
+- ["s5ErrorP", "recoverySuggestion"]
+- ["s5ErrorP", "requestCancelled"]
+- ["SH", "=="]
+- ["SH", ""]
+- ["SH", "_code"]
+- ["SH", "_domain"]
+- ["SH", "_getEmbeddedNSError"]
+- ["SH", "_rawHashValue"]
+- ["SH", "_userInfo"]
+- ["SH", "errorDescription"]
+- ["SH", "failureReason"]
+- ["SH", "hash"]
+- ["SH", "hashValue"]
+- ["SH", "helpAnchor"]
+- ["SH", "imageSerializationFailed"]
+- ["SH", "recoverySuggestion"]
+- ["SH", "requestCancelled"]
+- !private ["s6HasherV", "combine"]
+- ["10Foundation14LocalizedErrorP", "=="]
+- ["10Foundation14LocalizedErrorP", ""]
+- ["10Foundation14LocalizedErrorP", "_code"]
+- ["10Foundation14LocalizedErrorP", "_domain"]
+- ["10Foundation14LocalizedErrorP", "_getEmbeddedNSError"]
+- ["10Foundation14LocalizedErrorP", "_rawHashValue"]
+- ["10Foundation14LocalizedErrorP", "_userInfo"]
+- ["10Foundation14LocalizedErrorP", "errorDescription"]
+- ["10Foundation14LocalizedErrorP", "failureReason"]
+- ["10Foundation14LocalizedErrorP", "hash"]
+- ["10Foundation14LocalizedErrorP", "hashValue"]
+- ["10Foundation14LocalizedErrorP", "helpAnchor"]
+- ["10Foundation14LocalizedErrorP", "imageSerializationFailed"]
+- ["10Foundation14LocalizedErrorP", "recoverySuggestion"]
+- ["10Foundation14LocalizedErrorP", "requestCancelled"]
+depends-nominal:
+- "14AlamofireImage8AFIErrorO"
+- "SQ"
+- "s5ErrorP"
+- "SH"
+- !private "s6HasherV"
+- "10Foundation14LocalizedErrorP"
+depends-dynamic-lookup:
+depends-external:
+- "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Build/Files/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/Alamofire.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Pods/Target Support Files/AlamofireImage/AlamofireImage-umbrella.h"
+- "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Pods/Target Support Files/Alamofire/Alamofire-umbrella.h"
+- "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Build/Files/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+- "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Build/Intermediates/Pods.build/Debug-iphonesimulator/AlamofireImage.build/unextended-module.modulemap"
+- "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Build/Intermediates/Pods.build/Debug-iphonesimulator/Alamofire.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "eb5c23b68247aebc44dd04096faff156"
