@@ -1,9 +1,0 @@
-version: "Apple Swift version 5.0 (swiftlang-1001.0.69.5 clang-1001.0.46.3)"
-options: "767281054542564a5c4a6670f6a8137f"
-build_time: [1554686409, 870894000]
-inputs:
-  "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Parstagram/LoginViewController.swift": [1554596913, 181678656]
-  "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Parstagram/CameraViewController.swift": [1554603325, 321767909]
-  "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Parstagram/FeedViewController.swift": [1554686409, 773665052]
-  "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Parstagram/AppDelegate.swift": [1554594950, 8172923]
-  "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Parstagram/PostCell.swift": [1554684045, 883990463]

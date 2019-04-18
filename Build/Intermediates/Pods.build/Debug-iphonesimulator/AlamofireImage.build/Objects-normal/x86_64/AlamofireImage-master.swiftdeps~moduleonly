@@ -1,6 +1,6 @@
 version: "Apple Swift version 5.0 (swiftlang-1001.0.69.5 clang-1001.0.46.3)"
 options: "f6e664a2129e77403aad0385e79f32d3"
-build_time: [1554686387, 671595000]
+build_time: [1555558480, 530626000]
 inputs:
   "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Pods/AlamofireImage/Source/AFIError.swift": [1554587830, 808486368]
   "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Pods/AlamofireImage/Source/Image.swift": [1554587830, 809091764]

@@ -44,7 +44,7 @@ depends-member:
 - !private ["s7CVarArgP", "PFUser"]
 - !private ["s7CVarArgP", "UIImagePickerController"]
 - ["s7CVarArgP", ""]
-- !private ["s7CVarArgP", "af_imageScaled"]
+- !private ["s7CVarArgP", "af_imageAspectScaled"]
 - !private ["s7CVarArgP", "allowsEditing"]
 - !private ["s7CVarArgP", "commentField"]
 - !private ["s7CVarArgP", "current"]
@@ -100,7 +100,7 @@ depends-member:
 - !private ["s28CustomDebugStringConvertibleP", "PFUser"]
 - !private ["s28CustomDebugStringConvertibleP", "UIImagePickerController"]
 - ["s28CustomDebugStringConvertibleP", ""]
-- !private ["s28CustomDebugStringConvertibleP", "af_imageScaled"]
+- !private ["s28CustomDebugStringConvertibleP", "af_imageAspectScaled"]
 - !private ["s28CustomDebugStringConvertibleP", "allowsEditing"]
 - !private ["s28CustomDebugStringConvertibleP", "commentField"]
 - !private ["s28CustomDebugStringConvertibleP", "current"]
@@ -136,7 +136,7 @@ depends-member:
 - !private ["s23CustomStringConvertibleP", "PFUser"]
 - !private ["s23CustomStringConvertibleP", "UIImagePickerController"]
 - ["s23CustomStringConvertibleP", ""]
-- !private ["s23CustomStringConvertibleP", "af_imageScaled"]
+- !private ["s23CustomStringConvertibleP", "af_imageAspectScaled"]
 - !private ["s23CustomStringConvertibleP", "allowsEditing"]
 - !private ["s23CustomStringConvertibleP", "commentField"]
 - !private ["s23CustomStringConvertibleP", "current"]
@@ -178,7 +178,7 @@ depends-member:
 - !private ["SQ", "PFUser"]
 - !private ["SQ", "UIImagePickerController"]
 - ["SQ", ""]
-- !private ["SQ", "af_imageScaled"]
+- !private ["SQ", "af_imageAspectScaled"]
 - !private ["SQ", "allowsEditing"]
 - !private ["SQ", "camera"]
 - !private ["SQ", "commentField"]
@@ -214,7 +214,7 @@ depends-member:
 - !private ["SH", "PFUser"]
 - !private ["SH", "UIImagePickerController"]
 - ["SH", ""]
-- !private ["SH", "af_imageScaled"]
+- !private ["SH", "af_imageAspectScaled"]
 - !private ["SH", "allowsEditing"]
 - !private ["SH", "camera"]
 - !private ["SH", "commentField"]
@@ -249,7 +249,7 @@ depends-member:
 - !private ["So8NSCodingP", "PFUser"]
 - !private ["So8NSCodingP", "UIImagePickerController"]
 - ["So8NSCodingP", ""]
-- !private ["So8NSCodingP", "af_imageScaled"]
+- !private ["So8NSCodingP", "af_imageAspectScaled"]
 - !private ["So8NSCodingP", "allowsEditing"]
 - !private ["So8NSCodingP", "commentField"]
 - !private ["So8NSCodingP", "delegate"]
@@ -292,9 +292,9 @@ depends-member:
 - !private ["So26NSExtensionRequestHandlingP", "print"]
 - !private ["So26NSExtensionRequestHandlingP", "sourceType"]
 - !private ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
-- !private ["So21NSItemProviderReadingP", "af_imageScaled"]
+- !private ["So21NSItemProviderReadingP", "af_imageAspectScaled"]
 - !private ["So21NSItemProviderReadingP", "pngData"]
-- !private ["So21NSItemProviderWritingP", "af_imageScaled"]
+- !private ["So21NSItemProviderWritingP", "af_imageAspectScaled"]
 - !private ["So21NSItemProviderWritingP", "pngData"]
 - !private ["So8NSObjectC", "CGSize"]
 - ["So8NSObjectC", "InfoKey"]
@@ -305,7 +305,7 @@ depends-member:
 - ["So8NSObjectC", "UIImagePickerController"]
 - ["So8NSObjectC", "UIImageView"]
 - ["So8NSObjectC", "UITextField"]
-- !private ["So8NSObjectC", "af_imageScaled"]
+- !private ["So8NSObjectC", "af_imageAspectScaled"]
 - !private ["So8NSObjectC", "allowsEditing"]
 - ["So8NSObjectC", "commentField"]
 - !private ["So8NSObjectC", "current"]
@@ -337,7 +337,7 @@ depends-member:
 - !private ["So8NSObjectP", "PFUser"]
 - !private ["So8NSObjectP", "UIImagePickerController"]
 - ["So8NSObjectP", ""]
-- !private ["So8NSObjectP", "af_imageScaled"]
+- !private ["So8NSObjectP", "af_imageAspectScaled"]
 - !private ["So8NSObjectP", "allowsEditing"]
 - !private ["So8NSObjectP", "commentField"]
 - !private ["So8NSObjectP", "current"]
@@ -360,7 +360,7 @@ depends-member:
 - !private ["So8NSObjectP", "subscript"]
 - !private ["So8NSObjectP", "text"]
 - !private ["So8NSObjectP", "viewDidLoad"]
-- !private ["So14NSSecureCodingP", "af_imageScaled"]
+- !private ["So14NSSecureCodingP", "af_imageAspectScaled"]
 - !private ["So14NSSecureCodingP", "pngData"]
 - !private ["Sq", "image"]
 - !private ["Sq", "text"]
@@ -382,7 +382,7 @@ depends-member:
 - !private ["So33UIImagePickerControllerSourceTypeV", "camera"]
 - !private ["So33UIImagePickerControllerSourceTypeV", "photoLibrary"]
 - !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "image"]
-- !private ["So29UIAccessibilityIdentificationP", "af_imageScaled"]
+- !private ["So29UIAccessibilityIdentificationP", "af_imageAspectScaled"]
 - !private ["So29UIAccessibilityIdentificationP", "image"]
 - !private ["So29UIAccessibilityIdentificationP", "pngData"]
 - !private ["So29UIAccessibilityIdentificationP", "text"]
@@ -471,7 +471,7 @@ depends-member:
 - !private ["So11UIFocusItemP", "text"]
 - !private ["So20UIFocusItemContainerP", "image"]
 - !private ["So20UIFocusItemContainerP", "text"]
-- !private ["So7UIImageC", "af_imageScaled"]
+- !private ["So7UIImageC", "af_imageAspectScaled"]
 - !private ["So7UIImageC", "pngData"]
 - ["So23UIImagePickerControllerC", "InfoKey"]
 - !private ["So23UIImagePickerControllerC", "allowsEditing"]
@@ -496,7 +496,7 @@ depends-member:
 - !private ["So31UIImagePickerControllerDelegateP", "present"]
 - !private ["So31UIImagePickerControllerDelegateP", "print"]
 - !private ["So11UIImageViewC", "image"]
-- !private ["So39UIItemProviderPresentationSizeProvidingP", "af_imageScaled"]
+- !private ["So39UIItemProviderPresentationSizeProvidingP", "af_imageAspectScaled"]
 - !private ["So39UIItemProviderPresentationSizeProvidingP", "pngData"]
 - !private ["So10UIKeyInputP", "text"]
 - ["So22UINavigationControllerC", "InfoKey"]
@@ -710,7 +710,7 @@ depends-member:
 - !private ["So16UIViewControllerC", "sourceType"]
 - ["So16UIViewControllerC", "viewDidLoad"]
 - !private ["s30_CustomPlaygroundQuickLookableP", "init"]
-- !private ["s26_ExpressibleByImageLiteralP", "af_imageScaled"]
+- !private ["s26_ExpressibleByImageLiteralP", "af_imageAspectScaled"]
 - !private ["s26_ExpressibleByImageLiteralP", "pngData"]
 - !private ["s35_HasCustomAnyHashableRepresentationP", "editedImage"]
 - !private ["s35_HasCustomAnyHashableRepresentationP", "subscript"]
@@ -721,7 +721,7 @@ depends-member:
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "PFUser"]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "UIImagePickerController"]
 - ["10Foundation27_KeyValueCodingAndObservingP", ""]
-- !private ["10Foundation27_KeyValueCodingAndObservingP", "af_imageScaled"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "af_imageAspectScaled"]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "allowsEditing"]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "commentField"]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "current"]
@@ -835,6 +835,7 @@ depends-dynamic-lookup:
 depends-external:
 - "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Build/Files/Debug-iphonesimulator/AlamofireImage/AlamofireImage.framework/Modules/AlamofireImage.swiftmodule/x86_64.swiftmodule"
 - "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Build/Files/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/Alamofire.swiftmodule/x86_64.swiftmodule"
+- "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Build/Files/Debug-iphonesimulator/MessageInputBar/MessageInputBar.framework/Modules/MessageInputBar.swiftmodule/x86_64.swiftmodule"
 - "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
 - "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
 - "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
@@ -852,6 +853,7 @@ depends-external:
 - "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Build/Files/Debug-iphonesimulator/AlamofireImage/AlamofireImage.framework/Headers/AlamofireImage-umbrella.h"
 - "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Build/Files/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-umbrella.h"
 - "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Build/Files/Debug-iphonesimulator/Parse/Parse.framework/Headers/Parse-umbrella.h"
+- "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Build/Files/Debug-iphonesimulator/MessageInputBar/MessageInputBar.framework/Headers/MessageInputBar-umbrella.h"
 - "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Build/Files/Debug-iphonesimulator/Bolts/Bolts.framework/Headers/Bolts-umbrella.h"
 - "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Build/Files/Debug-iphonesimulator/Bolts/Bolts.framework/Headers/BFGeneric.h"
 - "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Build/Files/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFCloud+Deprecated.h"
@@ -902,12 +904,14 @@ depends-external:
 - "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Build/Files/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFProduct.h"
 - "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Build/Files/Debug-iphonesimulator/AlamofireImage/AlamofireImage.framework/Headers/AlamofireImage-Swift.h"
 - "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Build/Files/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+- "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Build/Files/Debug-iphonesimulator/MessageInputBar/MessageInputBar.framework/Headers/MessageInputBar-Swift.h"
 - "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Build/Files/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFFileUploadResult.h"
 - "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Build/Files/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFGeoPoint.h"
 - "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Build/Files/Debug-iphonesimulator/Parse/Parse.framework/Headers/PFQuery.h"
 - "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Build/Files/Debug-iphonesimulator/AlamofireImage/AlamofireImage.framework/Modules/module.modulemap"
 - "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Build/Files/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/module.modulemap"
 - "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Build/Files/Debug-iphonesimulator/Parse/Parse.framework/Modules/module.modulemap"
+- "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Build/Files/Debug-iphonesimulator/MessageInputBar/MessageInputBar.framework/Modules/module.modulemap"
 - "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Build/Files/Debug-iphonesimulator/Bolts/Bolts.framework/Modules/module.modulemap"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/usr/include/objc/ObjectiveC.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"

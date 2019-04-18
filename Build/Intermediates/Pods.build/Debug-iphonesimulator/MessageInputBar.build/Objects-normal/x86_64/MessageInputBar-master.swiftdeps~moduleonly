@@ -1,0 +1,15 @@
+version: "Apple Swift version 5.0 (swiftlang-1001.0.69.5 clang-1001.0.46.3)"
+options: "1fdb962eb2fec16793a63524cf268524"
+build_time: [1555558471, 211625000]
+inputs:
+  "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Pods/MessageInputBar/Sources/Controls/InputBarButtonItem.swift": [1555556906, 688678741]
+  "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Pods/MessageInputBar/Sources/Protocols/InputItem.swift": [1555556906, 690698194]
+  "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Pods/MessageInputBar/Sources/Protocols/InputPlugin.swift": [1555556906, 690271906]
+  "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Pods/MessageInputBar/Sources/Views/InputStackView.swift": [1555556906, 689164167]
+  "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Pods/MessageInputBar/Sources/Views/InputTextView.swift": [1555556906, 689437119]
+  "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Pods/MessageInputBar/Sources/MessageInputBar.swift": [1555556906, 687033138]
+  "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Pods/MessageInputBar/Sources/Protocols/MessageInputBarDelegate.swift": [1555556906, 690491763]
+  "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Pods/MessageInputBar/Sources/Models/NSConstraintLayoutSet.swift": [1555556906, 687544326]
+  "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Pods/MessageInputBar/Sources/Extensions/NSMutableAttributedString+Extensions.swift": [1555556906, 688299202]
+  "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Pods/MessageInputBar/Sources/Views/SeparatorLine.swift": [1555556906, 689689156]
+  "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Pods/MessageInputBar/Sources/Extensions/UIView+Extensions.swift": [1555556906, 688087054]

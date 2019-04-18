@@ -25,6 +25,15 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
             })
         ) //connect client side app with parse server that was set up
         
+        
+        // if the user is already logged in and re-enters the app, this portion
+        // of code will disable the first view to re-login
+        if(   PFUser.current()  != nil  ){
+            let main = UIStoryboard(name: "Main", bundle: nil)
+            let feedNavigationController = main.instantiateViewController(withIdentifier: "FeedNavigationController")
+            window?.rootViewController = feedNavigationController
+        }
+        
         return true
     }
 

@@ -1,9 +1,10 @@
 version: "Apple Swift version 5.0 (swiftlang-1001.0.69.5 clang-1001.0.46.3)"
-options: "767281054542564a5c4a6670f6a8137f"
-build_time: [1554686469, 184910000]
+options: "85efda2966ec809c4ead22b02223072a"
+build_time: [1555558482, 620898000]
 inputs:
   "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Parstagram/LoginViewController.swift": [1554596913, 181678656]
-  "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Parstagram/CameraViewController.swift": [1554603325, 321767909]
-  "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Parstagram/FeedViewController.swift": [1554686469, 64210924]
-  "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Parstagram/AppDelegate.swift": [1554594950, 8172923]
+  "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Parstagram/CameraViewController.swift": [1555558468, 851084822]
+  "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Parstagram/FeedViewController.swift": [1555558468, 871953137]
+  "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Parstagram/AppDelegate.swift": [1555542433, 778224664]
   "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Parstagram/PostCell.swift": [1554684045, 883990463]
+  "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Parstagram/CommentCell.swift": [1555555670, 627489619]

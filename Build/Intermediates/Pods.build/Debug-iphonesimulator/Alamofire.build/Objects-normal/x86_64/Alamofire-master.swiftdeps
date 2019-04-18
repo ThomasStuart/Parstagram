@@ -1,6 +1,6 @@
 version: "Apple Swift version 5.0 (swiftlang-1001.0.69.5 clang-1001.0.46.3)"
 options: "d20c35062e11796b5315032273ae63ae"
-build_time: [1554686377, 751160000]
+build_time: [1555558471, 212502000]
 inputs:
   "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Pods/Alamofire/Source/AFError.swift": [1554587830, 792559518]
   "/Users/Thomas_Stuart/Desktop/CodePathBootcamp/Parstagram/Pods/Alamofire/Source/Alamofire.swift": [1554587830, 795099408]

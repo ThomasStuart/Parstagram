@@ -6,15 +6,15 @@
 	<dict>
 		<key>Info.plist</key>
 		<data>
-		oXe1/EKnb/iZ/T9YjtfQtLJfTAo=
+		TiMwNgxoEQm4lubo/efRzXMX0RY=
 		</data>
 		<key>Parse.bundle/Info.plist</key>
 		<data>
-		UE+wBdCo8tHtNRqLzp2fMvpr2lQ=
+		n8whtlQ49Tov7s1Sbey+Rwg8584=
 		</data>
 		<key>Parse.bundle/_CodeSignature/CodeDirectory</key>
 		<data>
-		RT7uCCGuMxSBwF4ASLJcbvss2rQ=
+		C0fMc68y13PrbnfscqPt1Gzlg7Y=
 		</data>
 		<key>Parse.bundle/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -22,7 +22,7 @@
 		</data>
 		<key>Parse.bundle/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		JLgykZ3UWKog99csu606oD0fTbs=
+		e2fqrDyk02hG2UghZ/ODrhC7nE8=
 		</data>
 		<key>Parse.bundle/_CodeSignature/CodeResources</key>
 		<data>
@@ -48,22 +48,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			UE+wBdCo8tHtNRqLzp2fMvpr2lQ=
+			n8whtlQ49Tov7s1Sbey+Rwg8584=
 			</data>
 			<key>hash2</key>
 			<data>
-			/H/KSJbkXC7lfTF3zl8hT/+gQbj741EnyzaDL3Zw4Jo=
+			R9gtJ7LT0kdnlLKSf6ii8ry6DdmBFVj9137ehWOL2Jw=
 			</data>
 		</dict>
 		<key>Parse.bundle/_CodeSignature/CodeDirectory</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			RT7uCCGuMxSBwF4ASLJcbvss2rQ=
+			C0fMc68y13PrbnfscqPt1Gzlg7Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			NGqNB0efOJ7UAt+Aj0GJSzaqgmoTViOD55cSVvDKbyc=
+			n4tjCvZmadMgVXJGuUQvFY+f7AAgpq4f4ckE5ZF2BPs=
 			</data>
 		</dict>
 		<key>Parse.bundle/_CodeSignature/CodeRequirements</key>
@@ -81,11 +81,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			JLgykZ3UWKog99csu606oD0fTbs=
+			e2fqrDyk02hG2UghZ/ODrhC7nE8=
 			</data>
 			<key>hash2</key>
 			<data>
-			QawgDpJrFM6KKkN6uEhUgle7rFiXQdUsAiyxM+RjPQ8=
+			pRTmQT9ZE+3IlovtkyOa8GgsYVCY94bLW22s61AUT3M=
 			</data>
 		</dict>
 		<key>Parse.bundle/_CodeSignature/CodeResources</key>
